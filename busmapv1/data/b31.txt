@@ -1,0 +1,28 @@
+0 : Chem (Dai hoc Mo)
+1 : Duong 69(Duc Thang, Co Nhue)
+1 : Duong Thuy Phuong
+1 : Duong Dong Ngac
+1 : Tan Xuan
+1 : An Duong Vuong
+1 : Au Co
+1 : Nghi Tam
+1 : Yen Phu (duong danh rieng cho xe buyt)
+1 : Diem trung chuyen Long Bien
+1 : Hang Dau
+1 : Quan Thanh
+1 : Hang Cot
+1 : Hang Luoc
+1 : Cha Ca
+1 : Hang Can
+1 : Luong Van Can
+1 : Hang Gai
+1 : Hang Trong
+1 : Le Thai To
+1 : Ba Trieu
+1 : Dai Co Viet
+1 : Quay dau tai doi dien so nha 100 Dai Co Viet
+1 : Dai Co Viet
+1 : Ta Quang Buu
+1 : Le Thanh Nghi
+1 : Tran Dai Nghia
+1 : Dai hoc Bach Khoa

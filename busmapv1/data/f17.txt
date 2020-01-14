@@ -1,0 +1,20 @@
+0 : Long Bien
+1 : Yen Phu
+1 : Diem trung chuyen Long Bien
+1 : Tran Nhat Duat
+1 : Cau Chuong Duong
+1 : Nguyen Van Cu
+1 : Ngo Gia Tu
+1 : Cau Duong
+1 : Thien Duc
+1 : Doc Van
+1 : Quoc lo 3
+1 : Nguyen Khe
+1 : Phu Lo
+1 : Quoc lo 2
+1 : Duong noi Quoc lo 2 va duong Vo Van Kiet, Vo Nguyen Giap
+1 : Vo Nguyen Giap
+1 : quay dau tai diem mo
+1 : Vo Nguyen Giap
+1 : Vo Van Kiet
+1 : San bay Noi Bai (San do P2, Nha ga T1)

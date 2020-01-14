@@ -1,0 +1,18 @@
+0 : Yen Phu (Diem trung chuyen Long Bien)
+1 : Hang Dau
+1 : Hang Cot
+1 : Hang Ga
+1 : Hang Dieu
+1 : Duong Thanh
+1 : Phu Doan
+1 : Trieu Quoc Dat
+1 : Hai Ba Trung
+1 : Ba Trieu
+1 : Le Dai Hanh
+1 : Dai Co Viet
+1 : Bach Mai
+1 : Truong Dinh
+1 : Giai Phong
+1 : Nguyen Huu Tho
+1 : Nguyen Duy Trinh
+1 : Khu do thi Linh Dam

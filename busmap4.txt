@@ -1,0 +1,434 @@
+Ben xe Gia Lam
+01 15 03A
+Ngo Gia Kham
+01 03A 15
+Ngoc Lam
+01 03A 11 15
+Nguyen Van Cu
+01 03A 11 15 17 100
+Cau Chuong Duong
+01 03A 11 17 100
+Tran Nhat Duat
+01 03A 11 17 23 31 100
+Yen Phu
+01 17 31 100
+quay dau tai diem trung chuyen Long Bien
+01
+Hang Dau
+01 23 36
+Hang Than
+01
+Quan Thanh
+01
+Hang Cot
+01 36
+Hang Ga
+01 36
+Hang Dieu
+01 36
+Duong Thanh
+01 36
+Phu Doan
+01 36
+Trieu Quoc Dat
+01 36
+Hai Ba Trung
+01 02 23 36
+Le Duan
+01 03A
+Kham Thien
+01
+O Cho Dua
+01
+Nguyen Luong Bang
+01 02
+Tay Son
+01 02 23
+Cau vuot Nga tu So
+01
+Nguyen Trai
+01 02 105
+Tran Phu (Ha Dong)
+01 02 105
+Quang Trung (Ha Dong)
+01 02 89 102 105 BRT01
+Ba La
+01 02 91 BRT01
+Quoc lo 6
+01 02 91 102 BRT01
+Ben xe Yen Nghia
+01 02 89 91 102
+Bac Co
+02
+Tran Khanh Du
+02 03A
+Tran Hung Dao
+02 03A 11 23
+Le Thanh Tong
+02 23
+Quang Trung
+02 11
+Trang Thi
+02
+Dien Bien Phu
+02
+Tran Phu
+02
+Chu Van An
+02
+Ton Duc Thang
+02
+Nga tu So
+02
+Ben xe Giap Bat
+03A 06A 06B 06C
+Giai Phong
+03A 06A 06B 06C 23 36
+Nguyen Thuong Hien
+03A
+Yet Kieu
+03A
+Tran Quang Khai
+03A
+Long Bien (Diem quay dau truoc pho Hang Khoai)
+03A 11
+Nguyen Son
+03A 100
+Kim Dong
+06A 06B 06C
+Ngoc Hoi
+06A 06B 06C
+Quoc Lo 1
+06A
+Lien Ninh
+06A
+Quan Ganh
+06A
+Thi tran Thuong Tin
+06A
+Tia
+06A 06C
+Do Xa
+06A
+Nghe
+06A
+Thi tran Phu Xuyen
+06A
+Guot
+06A
+Cau Gie (bai xe khu vuc nga 3 duong noi thong giua QL1A va duong 75)
+06A
+Thuong Tin
+06B 06C
+duong 427
+06B
+Hong Van (Van La, Thuong Tin)
+06B
+Nga ba Do Xa
+06C
+duong 429 (phia Dong)
+06C
+Phu Minh (Phu Xuyen Cong ty Viet Tuyen)
+06C
+Cong vien Thong Nhat
+11
+Tran Nhan Tong
+11
+Phan Chu Trinh
+11 31
+Ly Thai To
+11 23 31
+Ngo Quyen
+11 23 31
+Hang Voi
+11 31
+Hang Tre
+11 31
+Hang Muoi
+11 31
+De Gia Thuong
+11
+Nguyen Van Linh
+11 100
+Nguyen Duc Thuan
+11 100
+Ngo Xuan Quang
+11
+Hoc vien Nong nghiep Viet Nam
+11
+Ngo Gia Tu
+15 17
+Cau Duong
+15 17
+Quoc lo 3
+15 17
+Doc Van
+15 17
+Co Loa
+15
+Duong cai tranh Quoc lo 3
+15
+Dong Anh
+15
+Nguyen Khe
+15 17
+Phu Lo
+15 17
+Da Phuc
+15
+Pho Ni
+15
+Long Bien
+17
+Diem trung chuyen Long Bien
+17 31 100
+Thien Duc
+17
+Quoc lo 2
+17
+Duong noi Quoc lo 2 va duong Vo Van Kiet, Vo Nguyen Giap
+17
+Vo Nguyen Giap
+17
+quay dau tai diem mo
+17
+Vo Van Kiet
+17
+San bay Noi Bai (San do P2, Nha ga T1)
+17
+Diem do xe buyt 32 Nguyen Cong Tru
+23
+Nguyen Cong Tru
+23
+Pho Hue
+23 31
+Tue Tinh
+23
+Ba Trieu
+23 36
+Le Dai Hanh
+23 36
+Hoa Lu
+23
+Dai Co Viet
+23 31 36
+Quay dau tai doi dien so nha 100 Dai Co Viet
+23
+Ta Quang Buu
+23 31
+Le Thanh Nghi
+23 31
+Phuong Mai
+23
+Luong Dinh Cua
+23
+Dong Tac
+23
+Chua Boc
+23
+Quay dau tai doi dien so nha 127 Tay Son
+23
+Dang Tien Dong
+23
+Tran Quang Dieu
+23
+Vo Van Dung
+23
+Hoang Cau
+23
+De La Thanh
+23
+Giang Vo
+23 BRT01
+Nguyen Thai Hoc
+23
+Cua Nam
+23
+Hang Bong
+23
+Phung Hung
+23
+Le Van Linh
+23
+Phung Hung (duong trong)
+23
+Phan Dinh Phung
+23
+Nguyen Huu Huan
+23
+Phan Huy Chu
+23
+Han Thuyen
+23
+Le Van Huu
+23
+Ngo Thi Nham
+23
+Dai hoc Bach Khoa
+31
+Tran Dai Nghia
+31
+Hang Bai
+31
+Ly Thuong Kiet
+31
+Nghi Tam
+31
+Au Co
+31
+Nhat Tan
+31
+An Duong Vuong
+31
+Duong Dong Ngac (69)
+31
+Thuy Phuong
+31
+Duc Thang,Co Nhue
+31
+Chem (Dai hoc Mo)
+31
+Yen Phu (Diem trung chuyen Long Bien)
+36
+Bach Mai
+36
+Truong Dinh
+36
+Nguyen Huu Tho
+36
+Nguyen Duy Trinh
+36
+Khu do thi Linh Dam
+36
+Chu Van An (Ha Dong)
+89
+Van Phuc
+89
+Dai Mo
+89
+Tay Mo
+89
+Tinh Lo 72
+89
+Thi tran Quoc Oai
+89
+Dai Lo Thang Long
+89
+Thach That
+89
+KCN Chang Son
+89
+duong tinh lo 419 (xa Dai Dong, Thach That)
+89
+Quoc lo 32
+89
+Ben xe Son Tay
+89
+Pho Xom
+91
+Quoc lo 21B (qua Thach Bich, Binh Da, thi tran Kim Bai, huyen Thanh Oai)
+91
+Tinh lo 429 (qua cac xa Quang Nguyen, Dao Tu, Phu Ha, huyen Phu Xuyen)
+91
+Phu Tuc (Phu Xuyen)
+91
+Phu Tuc (bai do xe xa Phu Tuc, huyen Phu Xuyen)
+91
+Lam Ha
+100
+Ngo 200 Nguyen Son
+100
+Hoang Nhu Tiep
+100
+Co Linh
+100
+Cau vuot duong Co Linh
+100
+Thach Ban
+100
+Khu do thi Dang Xa
+100
+Duong noi bo DX2
+100
+Duong vanh dai noi bo KDT Dang Xa (Qua cac khu nha CT9B, D3, D13, D10)
+100
+KDT Dang xa (Canh San bong nha CT3 KDT Dang Xa)
+100
+Cau Mai Linh
+102
+Bien Giang (Ha Dong)
+102
+Thi tran Chuc Son
+102
+Bac Son
+102
+Hoa Son
+102
+Yen Son
+102
+Tinh lo 419
+102
+Tinh lo 429B
+102
+Quoc lo 21B
+102
+Le Loi (Van Dinh)
+102
+Van Dinh
+102
+Do Nghia
+105
+Yen Lo
+105
+Le Trong Tan (Ha Dong)
+105
+To Hieu (Ha Dong)
+105
+Le Hong Phong (Ha Dong)
+105
+Le Loi (Ha Dong)
+105
+Ha Tri
+105
+Da Sy
+105
+duong Phuc La, Van Phu
+105
+Phung Hung (Ha Dong)
+105
+Nguyen Tuan
+105
+Le Van Luong
+105 BRT01
+Hoang Dao Thuy
+105
+Tran Duy Hung
+105
+Trung Hoa
+105
+Vu Pham Ham
+105
+Nguyen Khang
+105
+Cau Giay
+105
+Ben xe Thuong Tin
+108
+Quoc lo 1A (Tia, Do Xa, Phu Xuyen)
+108
+Tinh lo 428 (Phia Dong)
+108
+Minh Tan (bai do xe buyt xa Minh Tan, doi dien cong lang Than Quy, huyen Phu Xuyen)
+108
+Ben xe Yen Nghia (Quang truong ben xe Yen Nghia)
+BRT01
+Le Trong Tan
+BRT01
+To Huu
+BRT01
+Lang Ha
+BRT01
+Giang Van Minh
+BRT01
+Kim Ma (So 1 Kim Ma)
+BRT01

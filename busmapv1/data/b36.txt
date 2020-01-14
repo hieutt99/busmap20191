@@ -1,0 +1,22 @@
+0 : Khu do thi Linh Dam
+1 : Nguyen Duy Trinh
+1 : Nguyen Huu Tho
+1 : Giai Phong
+1 : Quay dau tai chua Phap Van
+1 : Giai Phong
+1 : Truong Dinh
+1 : Bach Mai
+1 : Pho Hue
+1 : Hang Bai
+1 : Hai Ba Trung
+1 : Trieu Quoc Dat
+1 : Phu Doan
+1 : Duong Thanh
+1 : Phung Hung
+1 : Phung Hung (duong trong)
+1 : Phan Dinh Phung
+1 : Hang Dau
+1 : Tran Nhat Duat
+1 : Quay dau tai dau pho Hang Khoai
+1 : Tran Nhat Duat
+1 : Yen Phu (Diem trung chuyen Long Bien)

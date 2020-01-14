@@ -1,0 +1,46 @@
+0 : Diem do xe buyt 32 Nguyen Cong Tru
+1 : Nguyen Cong Tru
+1 : Lo Duc
+1 : Phan Chu Trinh
+1 : Tran Hung Dao
+1 : Le Thanh Tong
+1 : Ly Thai To
+1 : Ngo Quyen
+1 : Hang Voi
+1 : Hang Tre
+1 : Hang Muoi
+1 : Tran Nhat Duat
+1 : Diem trung chuyen Long Bien
+1 : Yen Phu
+1 : Hang Than
+1 : Quan Thanh
+1 : Hoe Nhai
+1 : Phan Dinh Phung
+1 : Ly Nam De
+1 : Tran Phu
+1 : Nguyen Thai Hoc
+1 : Giang Vo
+1 : De La Thanh
+1 : Hoang Cau
+1 : Vo Van Dung
+1 : Tran Quang Dieu
+1 : Dang Tien Dong
+1 : Tay Son
+1 : Chua Boc
+1 : Pham Ngoc Thach
+1 : Luong Dinh Cua
+1 : Phuong Mai
+1 : Giai Phong
+1 : Quay dau tai gam cau vuot Nga Tu Vong
+1 : Giai Phong
+1 : Le Thanh Nghi
+1 : Ta Quang Buu
+1 : Dai Co Viet
+1 : Quay dau tai doi dien so nha 36 Dai Co Viet
+1 : Dai Co Viet
+1 : Hoa Lu
+1 : Le Dai Hanh
+1 : Thai Phien
+1 : Pho Hue
+1 : Nguyen Cong Tru
+1 : Diem do xe buyt 32 Nguyen Cong Tru

@@ -1,0 +1,21 @@
+0 : KDT Dang Xa
+1 : Duong vanh dai noi bo KDT Dang Xa
+1 : Duong noi bo DX2
+1 : Khu do thi Dang Xa
+1 : Nguyen Duc Thuan
+1 : Nguyen Van Linh
+1 : Thach Ban
+1 : Co Linh
+1 : Cau vuot duong Co Linh
+1 : Co Linh
+1 : Pho Lam Ha
+1 : Hoang Nhu Tiep
+1 : Ngo 200 Nguyen Son
+1 : Lam Ha
+1 : Nguyen Son
+1 : Nguyen Van Cu
+1 : Cau Chuong Duong
+1 : Tran Nhat Duat
+1 : Yen Phu
+1 : Diem trung chuyen Long Bien
+1 : Yen Phu

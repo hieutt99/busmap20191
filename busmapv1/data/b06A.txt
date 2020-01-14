@@ -1,0 +1,13 @@
+0 : Cau Gie (bai xe khu vuc nga 3 duong noi thong giua QL1A va duong 75)
+1 : Quoc Lo 1A
+1 : Guot
+1 : Thi tran Phu Xuyen
+1 : Nghe
+1 : Do Xa
+1 : Tia
+1 : Thi tran Thuong Tin
+1 : Quan Ganh
+1 : Lien Ninh
+1 : Ngoc Hoi
+1 : Giai Phong
+1 : Ben xe Giap Bat

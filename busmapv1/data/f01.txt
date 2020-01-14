@@ -1,0 +1,31 @@
+0 : Ben xe Gia Lam
+1 : Ngo Gia Kham
+1 : Ngoc Lam
+1 : Nguyen Van Cu
+1 : Cau Chuong Duong
+1 : Tran Nhat Duat
+1 : Yen Phu
+1 : quay dau tai diem trung chuyen Long Bien
+1 : Yen Phu
+1 : Hang Dau
+1 : Hang Than
+1 : Quan Thanh
+1 : Hang Cot
+1 : Hang Ga
+1 : Hang Dieu
+1 : Duong Thanh
+1 : Phu Doan
+1 : Trieu Quoc Dat
+1 : Hai Ba Trung
+1 : Le Duan
+1 : Kham Thien
+1 : O Cho Dua
+1 : Nguyen Luong Bang
+1 : Tay Son
+1 : Cau vuot Nga tu So
+1 : Nguyen Trai
+1 : Tran Phu (Ha Dong)
+1 : Quang Trung (Ha Dong)
+1 : Ba La
+1 : Quoc lo 6
+1 : Ben xe Yen Nghia

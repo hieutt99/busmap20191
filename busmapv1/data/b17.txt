@@ -1,0 +1,22 @@
+0 : San bay Noi Bai (San do P2, Nha ga T1)
+1 : duong truc noi cang
+1 : Tram thu phi San bay Noi Bai
+1 : Vo Van Kiet
+1 : Quay dau tai diem mo duong Vo Van Kiet
+1 : Vo Van Kiet
+1 : Duong noi Quoc lo 2 va duong Vo Van Kiet
+1 : Quoc lo 2
+1 : Phu Lo
+1 : Nguyen Khe
+1 : Dong Anh
+1 : Quoc lo 3
+1 : Thien Duc
+1 : Cau Duong
+1 : Ngo Gia Tu
+1 : Nguyen Van Cu
+1 : Cau Chuong Duong
+1 : Tran Nhat Duat
+1 : Yen Phu
+1 : DTC Long Bien
+1 : Yen Phu
+1 : Long Bien
